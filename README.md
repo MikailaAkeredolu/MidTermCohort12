@@ -8,3 +8,4 @@
 #### Make sure you Push your code to github and DM repo to me before 2pm else you get a zero. You MUST Keep repo private until assessment is over at 2pm
 
 > Use the UML above to answer the questions below
+- Create an instance of the Admin class ( Need help ? here you go - https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
