@@ -32,3 +32,5 @@
 - Invoke the static method named addASingleProductToDirectoryTiedToCustomerByNameThenPrint on customer 1 and right after that that do it again but the second time on customer2 then a third time but on customer3. Your method works if ONLY customer1 prints out. See expected output
 - Have the admin reset customer1's password to **ReadyForBlock2**
 - Get and print out customer1's password
+
+### Push your code to github and DM repo to me before 2pm. Keep repo private until assessment is over!
