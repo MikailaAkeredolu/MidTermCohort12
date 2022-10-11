@@ -4,8 +4,7 @@
 - To demonstrate understanding of the fundamentals of O.O.P Abstraction, Inheritance, Encapsulation and Polymorphism
  
 <br />
-
-![C12UMLMidTermAss drawio](https://user-images.githubusercontent.com/10773482/195133160-c89dc115-c649-4e89-bb42-c76d7df65a0f.png)
+![FinalC12MidTermAss drawio](https://user-images.githubusercontent.com/10773482/195135229-92692ff2-1552-4d9a-88ce-0bf33985884b.png)
 
 ### Push your code to github and DM repo to me before 2pm. Keep repo private until assessment is over!
 
