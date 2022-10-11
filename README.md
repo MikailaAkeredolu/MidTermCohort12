@@ -5,7 +5,8 @@
 ![C12MidTermAss drawio](https://user-images.githubusercontent.com/10773482/195033594-44e1140e-2059-433c-84ed-ec80765704da.png)
 
 #### Make sure you Push your code to github and DM repo to me before 2pm else you get a zero. You MUST Keep repo private until assessment is over at 2pm
-<br />
+
+
 #### Declaration, Instantiation and Initialization
 > Use the UML above to answer the questions below in main()
 - Create an instance of the Admin class (Not sure what that means? click link) - https://docs.oracle.com/javase/tutorial/java/javaOO/objectcreation.html
