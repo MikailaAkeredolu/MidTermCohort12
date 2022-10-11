@@ -32,8 +32,9 @@
 - Get and print out the Total Price Of customer1's Products
 - Sort and print out all products by price in reverse order 
 - get and print out the List Of Product Prices Greater Than The Price Of Product Given
-- Invoke the static method named addASingleProductToDirectoryTiedToCustomerByNameThenPrint on customer 1 and right after that that do it again but the second time on customer2 then a third time but on customer3. Your method works if ONLY customer1 prints out. See expected output
-- Have the admin reset customer1's password to **ReadyForBlock2**
+- Invoke the static method named addASingleProductToDirectoryTiedToCustomerByNameThenPrint on customer 1 and right after that that do it again but the second time around invoke it on customer2 then a third time but this time we want to call it on the customer3 reference variable.
+ Your method works if ONLY customer1's info prints out as seen in the expected output. This method should only print out the first customer' info that was added. Additional calls and attempts to add another entry to the map should not make a difference because the map is no longer empty. Therefore only the first entry should print out !!!
+- Phew...finally have the admin reset customer1's password to **ReadyForBlock2**
 - Get and print out customer1's password
 
 ### Push your code to github and DM repo to me before 2pm. Keep repo private until assessment is over!
