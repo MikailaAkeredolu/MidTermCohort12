@@ -28,7 +28,7 @@
 #### Invoking Methods on a Class and on objects again
 - Consume all the products that are considered consumable according to the UML
 - Set the amount of stamps to 3 (amount property/attribute of the postalStamp object) 
-- Print all printable products by levearging your one of your utitlity methods
+- Print all printable products by leveraging your one of your utitlity methods
 - Get and print out the Total Price Of customer1's Products
 - Sort and print out all products by price in reverse order 
 - get and print out the List Of Products Greater Than The Price Of Product Given
