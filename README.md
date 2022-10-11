@@ -31,7 +31,7 @@
 - Print all printable products by leveraging your one of your utitlity methods
 - Get and print out the Total Price Of customer1's Products
 - Sort and print out all products by price in reverse order 
-- get and print out the List Of Products Greater Than The Price Of Product Given
+- get and print out the List Of Product Prices Greater Than The Price Of Product Given
 - Invoke the static method named addASingleProductToDirectoryTiedToCustomerByNameThenPrint on customer 1 and right after that that do it again but the second time on customer2 then a third time but on customer3. Your method works if ONLY customer1 prints out. See expected output
 - Have the admin reset customer1's password to **ReadyForBlock2**
 - Get and print out customer1's password
