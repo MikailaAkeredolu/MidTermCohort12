@@ -20,7 +20,7 @@
 - Set customer1's accountBalance to negative number (- 150.0) without modifying the constructor. Then **get and print the balance right after doing so**. Oops!
 - We do not want to be able to give a customer a negative balance. Therefore, go and modify your setter to ensure that we cannot give a customer a negative balance. *The account balance should not change if done the right way therefore test it out to make sure it works by getting and printing the balance*
 - Without modifying the constructor or creating a new one. **Call a method** to give or award customer1 1000 reward points
-- Invoke the method to make customer1 use 100 out of his/her 1000 points
+- Invoke the method to make customer1 use 100 out of his/her 1000 reward points
 - Call a method to get/retrieve ONLY the secondary address of customer1 and then print it out
 - Once again without modifying the constructor. Set customer1's size to a Medium
 - Invoke the print() method on the customer1 object to print out customer1's information
