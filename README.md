@@ -5,7 +5,7 @@
  
 <br />
 
-![C12MidTermAss drawio (1)](https://user-images.githubusercontent.com/10773482/195131569-a801f4de-e75e-4d55-99aa-c42f7a3b9c82.png)
+![UmlforMidTermAss drawio](https://user-images.githubusercontent.com/10773482/195132286-dca29abf-d0fc-413b-a7c5-1624a6070434.png)
 
 ### Push your code to github and DM repo to me before 2pm. Keep repo private until assessment is over!
 
