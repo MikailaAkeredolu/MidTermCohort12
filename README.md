@@ -41,4 +41,56 @@
 - Phew...finally have the admin reset customer1's password to **ReadyForBlock2**
 - Get and print out customer1's password
 
+
+# Expected Outputs
+```
+===Get and print out customer1's balance====
+100.0
+===useRewardPoints===
+You Just used 10 points and now you have 90 points left
+===getSecondaryAddressOfCustomer of customer1===
+12 Real News Lane, Dover, DE 19901
+===Print customer1's info with the print() method===
+username: c1
+reward points: 90
+accountBalance: 100.0
+Size: M
+===Consume all consumable according to the UML===
+Now consuming AA battery
+Now consuming Vanilla ice-cream
+===Print all printable objects===
+name: Team-USA
+amount: 3
+price: 20.0
+size: S
+==============================
+username: c1
+reward points: 90
+accountBalance: 100.0
+Size: M
+==============================
+username: c2
+reward points: 0
+accountBalance: 500.0
+Size: null
+==============================
+username: c3
+reward points: 0
+accountBalance: 250.0
+Size: null
+==============================
+Admin's name is : Peter
+==============================
+===getTotalPriceOfCustomerProducts===
+36.0
+===reverseSortAndPrintAllProductsByPrice===
+20.0
+11.0
+5.0
+===getListOfProductsGreaterThanThePriceOfProductGiven===
+[20.0, 11.0]
+===addASingleProductToDirectoryTiedToCustomerByNameThenPrint===
+c1 : Product{name='Vanilla', price=5.0, size=X}
+ReadyForBlock2
+```
 ### Push your code to github and DM repo to me before 2pm. Keep repo private until assessment is over!
