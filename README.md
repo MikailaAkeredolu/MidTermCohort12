@@ -32,7 +32,7 @@
 - Get and print out the Total Price Of customer1's Products
 - Sort and print out all products by price in reverse order 
 - get and print out the List Of Product Prices Greater Than The Price Of Product Given
-- **Invoke the static method named** addASingleProductToDirectoryTiedToCustomerByNameThenPrint on customer 1.
+- **Invoke the static method named** addASingleProductToDirectoryTiedToCustomerByNameThenPrint **on the customer 1 instance**.
 - Right after that that do it again but the second time around invoke it on customer2 
 - Then a third time but this time we want to call it on the customer3 reference variable.
 > Your method works ONLY if customer1's info prints out as seen in the expected output.
